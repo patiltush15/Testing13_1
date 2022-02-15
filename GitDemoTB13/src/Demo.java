@@ -15,6 +15,7 @@ public class Demo {
 		System.out.println("This is main method of Demo - GitDemoTB13.");
 		Demo d = new Demo();
 		d.m1();
+		d.m2();
 	}
 
 }
