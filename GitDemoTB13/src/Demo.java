@@ -2,7 +2,11 @@
 public class Demo {
 
 	public void m1() {
-		System.out.println("This is M1 Of Demo - GitDemoTB13");
+		System.out.println("This is M1 Of Demo - GitDemoTB13 edited in eclipse");
+
+	}
+	public void m2() {
+		System.out.println("This is M2 Of Demo - GitDemoTB13 inserted on Git Hub");
 
 	}
 
