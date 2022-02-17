@@ -11,8 +11,8 @@ public class Demo {
 
 	}
 	
-	public void m3() {
-		System.out.println("This is M3 Of Demo - GitDemoTB13 inserted on GitHub To PULL");
+	public void m4() {
+		System.out.println("This is M4 Of Demo - GitDemoTB13 inserted on GitHub To PULL");
 
 	}
 
